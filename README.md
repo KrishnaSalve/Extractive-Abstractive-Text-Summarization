@@ -1,5 +1,8 @@
 # Extractive and Abstractive Text Summarization Project
 
+ ![text summarization](https://github.com/user-attachments/assets/5f07b58c-c31b-4e6d-bbdf-db50b1c9c631)
+
+
 **Description**
 
 This project explores two primary approaches to text summarization: 
@@ -17,6 +20,9 @@ This README includes a brief overview, installation, Instructions, Usage, and de
 
 
 # Extractive Text Summarization
+
+ ![extractive text summarization](https://github.com/user-attachments/assets/c9a29c1a-218b-4c5e-9d53-8767acc53bb6)
+
 
 **Overview**
 
@@ -231,6 +237,9 @@ This section outlines the expected outcomes and effectiveness of the extractive 
 Overall, this extractive summarization application provides a reliable tool for condensing information, making it suitable for quick comprehension and review of extensive or complex documents through an easy-to-use web platform.
 
 ### Abstractive Text Summarization 
+
+ ![Abstractive text Summarization](https://github.com/user-attachments/assets/e9734b50-cc25-4eed-82f5-bdbc3f42b787)
+
 
 **Overview**
 
